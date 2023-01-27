@@ -7,7 +7,7 @@ import FooterPart from "./Components/Footer";
 function App() {
   return (
     <div>
-      <h1>Hello Rahul to World</h1>
+      <h1>Hello codies!!</h1>
       <Navbar />
       <AllRoutes />
       <FooterPart/>
